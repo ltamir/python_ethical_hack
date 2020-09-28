@@ -1,1 +1,4 @@
 pkg
+.vscode/settings.json
+.vscode
+subdomains-wodlist.txt
